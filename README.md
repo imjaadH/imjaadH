@@ -1,9 +1,8 @@
 # Hi there, I'm Imjaad 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-YourLinkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourlinkedin/)](https://www.linkedin.com/in/yourlinkedin/)
-[![GitHub followers](https://img.shields.io/github/followers/yourgithubusername?label=Follow&style=social)](https://github.com/yourgithubusername)
-[![Twitter Badge](https://img.shields.io/badge/-@YourTwitterHandle-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/yourtwitterhandle)](https://twitter.com/yourtwitterhandle)
-[![Gmail Badge](https://img.shields.io/badge/-yourname@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yourname@gmail.com)](mailto:yourname@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-YourLinkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imjaad1994/)](https://www.linkedin.com/in/yourlinkedin/)
+[![GitHub followers](https://img.shields.io/github/followers/imjaadH?label=Follow&style=social)](https://github.com/imjaadH)
+[![Gmail Badge](https://img.shields.io/badge/-imjaadhaider@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:imjaadhaider@gmail.com)](mailto:imjaadhaider@gmail.com)
 
 ---
 
