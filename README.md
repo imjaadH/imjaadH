@@ -1,8 +1,8 @@
 # Hi there, I'm Imjaad 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-YourLinkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imjaad1994/)](https://www.linkedin.com/in/yourlinkedin/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imjaad1994/)](https://www.linkedin.com/in/imjaad1994/)
 [![GitHub followers](https://img.shields.io/github/followers/imjaadH?label=Follow&style=social)](https://github.com/imjaadH)
-[![Gmail Badge](https://img.shields.io/badge/-imjaadhaider@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:imjaadhaider@gmail.com)](mailto:imjaadhaider@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:imjaadhaider@gmail.com)](mailto:imjaadhaider@gmail.com)
 
 ---
 
@@ -56,12 +56,6 @@ I'm seasoned full stack developer with over four years of experience, specializi
 
 ---
 
-## 🏆 GitHub Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=imjaadH&theme=onedark)
-
----
-
 ## 📈 Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imjaadH&layout=compact)
@@ -70,9 +64,8 @@ I'm seasoned full stack developer with over four years of experience, specializi
 
 ## 📫 Connect with Me
 
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourlinkedin/)
-- Twitter: [@YourTwitterHandle](https://twitter.com/yourtwitterhandle)
-- Email: [yourname@gmail.com](mailto:yourname@gmail.com)
+- [My LinkedIn](https://www.linkedin.com/in/imjaad1994/)
+ - [Gmail](mailto:imjaadhaider@gmail.com)
 
 ---
 
