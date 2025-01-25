@@ -8,7 +8,7 @@
 
 ## About Me
 
-I'm seasoned full stack developer with over four years of experience, specializing in JavaScript, TypeScript, React, Node, Next.js, and GraphQL. My expertise extends to .NET, SharePoint, Entity Framework, and Web APIs. I thrive in collaborative environments and have successfully delivered a diverse range of projects, from small-scale solutions to complex, end-to-end integrations. I am dedicated to producing exceptional results and staying up-to-date with the latest technologies and trends.
+I'm seasoned full stack developer with over four years of experience, specializing in JavaScript, TypeScript, React, Node, Next.js, and GraphQL. My expertise extends to .NET, SharePoint, Entity Framework, and Web APIs. I thrive in collaborative environments and have successfully delivered a diverse range of projects, from small-scale solutions to complex, end-to-end integrations. I am dedicated to producing exceptional results.
 
 ---
 
