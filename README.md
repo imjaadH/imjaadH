@@ -50,12 +50,6 @@ I'm seasoned full stack developer with over four years of experience, specializi
 
 ---
 
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=imjaadH&show_icons=true&hide_border=true&count_private=true)
-
----
-
 ## 📈 Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imjaadH&layout=compact)
